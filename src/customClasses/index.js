@@ -1,4 +1,4 @@
-import { DynamicWordCloud } from './DynamicWordCloud/index';
+import DynamicWordCloud from './DynamicWordCloud/';
 
 export {
     DynamicWordCloud

@@ -25,8 +25,6 @@ export default class DynamicWordCloud{
         this.word_objects = this.word_objects.filter(check_min_size);
         this.word_objects = addWord(this.word_objects, input_text, input_size, this.canvas);
 
-        console.log(this.word_objects);
-
     }
 
     display() {

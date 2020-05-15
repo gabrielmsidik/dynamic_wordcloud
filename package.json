@@ -1,0 +1,11 @@
+{
+  "name": "dynamic_wordcloud",
+  "version": "1.0.8",
+  "description": "a dynamic wordcloud for text visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Manuel Sidik",
+  "license": "ISC"
+}

@@ -1,6 +1,6 @@
 {
   "name": "dynamic_wordcloud",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "description": "a dynamic wordcloud for text visualization",
   "main": "src/index.js",
   "scripts": {
